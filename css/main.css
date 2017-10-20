@@ -1,0 +1,20 @@
+h1{
+  outline: 1px solid yellow;/*colocando una linea al borde del titulo */
+  text-align: center; /* alineacion al centro*/
+}
+img{/*colocando una linea al borde de la imagen */
+  outline: 1px solid blue;
+  max-width: 100%;
+}
+.caja{
+  width: 400px;
+  /*outline: 1px solid red;*/
+  padding: 10px;
+  border: 1px solid #999;
+  margin-left: 14px;
+  box-sizing: border-box;
+  float: left;
+}
+p{
+  outline: 1px solid blue;
+}
